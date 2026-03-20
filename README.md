@@ -5,7 +5,6 @@
 **macOS** · **Windows**
 
 [![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/Eplorr/LyricsBlossom-blossom-now-/total?style=flat-square)](https://github.com/Eplorr/LyricsBlossom-m/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#-license)
 
 ## Features
