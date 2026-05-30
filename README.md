@@ -3,9 +3,14 @@
 # 🌸 LyricsBlossom
 
 **为歌词而生**
+**Born for lyrics**
 
 [![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#license)
+
+<div align="center">
+<img src="snapshot-banner.png" width="100%" />
+</div>
 
 **简体中文** · [English](./README.en.md)
 
