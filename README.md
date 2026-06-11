@@ -5,7 +5,7 @@
 **为歌词而生**
 **Born for lyrics**
 
-[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#license)
 
 <div align="center">
