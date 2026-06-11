@@ -4,7 +4,7 @@
 
 **Built for Lyrics**
 
-[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#license)
 
 [简体中文](./README.md) · **English**
